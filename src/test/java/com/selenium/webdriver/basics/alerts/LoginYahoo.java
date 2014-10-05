@@ -26,8 +26,8 @@ public class LoginYahoo {
 	@Test
 	public void login()
 	{
-		String username = "fairmonk";
-		String password = "Showmustgoon23";
+		String username = "dummy";
+		String password = "dummy";
 		
 		
 		WebElement usernameField = driver.findElement(By.id("username"));
